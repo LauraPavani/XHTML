@@ -1,0 +1,39 @@
+<html>
+	<head>
+		<title>XHTML Aula 03</title>
+	</head>
+	
+	<body>
+	<h1 align="center">XHTML</h1>
+	From Wikipedia, the free encyclopedia Jump to: navigation, search
+	<p>
+	The XHTML , or eXtensible Hypertext Markup Language , is a reformulation of the markup language HTML , based on XML . Combines the tags HTML markup with the rules of XML. This process of standardization provides the display of a Web page in this format by various devices ( television , palm , mobile , etc.), as well as improving the accessibility of content. The main difference between XHTML and HTML is that the first is valid XML, while the second has its own syntax. Both have semantic meaning.
+	To verify that a page has been built correctly in the XHTML standard, there are several validators; the W3C provides an online validator.
+	</p>
+	<h2 align="center">Introduction</h2> 
+	<p>
+	At the time of technology launch, XHTML was considered to be the successor to HTML. However, XHTML is a separate recommendation; the W3C continues to recommend the use of XHTML 1.1, XHTML 1.0, and HTML 4.01 for web publishing, as well as HTML5.
+	</p>
+	<h3>XHTML 1.1</h3> 
+	<p>
+	The most recent XHTML Recommendation of W3C is XHTML 1.1: <br />
+	* Module-based XHTML , which is a reformulation of XHTML 1.0 Strict, with small modifications, using some modules of a set defined in XHTML Modularization, <br />
+	* A W3C Recommendation that creates a modularization of frames, <br />
+	* All pattern of modules, and several other definitions. <br /> 
+	All deprecated HTML tools, such as presentional elements and framesets, and even the attributes langand attribute of anchors name, which were still allowed in XHTML 1.0 Strict, have been removed from this release. Presentation is controlled purely by Cascade Style Sheets ( CSS). This version also supports ruby ​​markup, required for Far Eastern languages ​​(especially CJK ).
+	</p>
+	<p>
+	In addition to modulating XHTML to allow small XHTML tools to be reused by other XML applications in a well-defined manner, and for XHTML to be extended for some purposes, XHTML 1.1 adds the concept of a "strictly conformed" document: those documents defined in the required modules for XHTML 1.1. For example, if a document is extended to use the XHTML Frames module (frameset), it can also be described as XHTML 1.1, but not strictly conforming to XHTML 1.1. Instead, it should be described as an XHTML Host Language Conforming Document, [ 3 ] if the tool is relevant and necessary.
+	</p>
+	<p>
+	In 2007 , a second edition of XHTML 1.1 is being developed by the W3C Working Draft.
+	</p>
+	<h3>HTML5 (outline)</h3>
+	<p>
+	In 10 of April of 2007 , the Mozilla Foundation , Apple Inc. and Opera Software have proposed [ 4 ] that the new HTML working group of the W3C adopt the HTML5 the WHATWG as a starting point of their work and name it as "HTML5" . In 9 of May of 2007 , the new HTML working group decided to accept the proposal. [ 5 ] In 22 of January of 2008 , the group published HTML5 as a Working Draft. [ 6 ]
+	</p>
+	<p>
+	HTML5 maps a parallel serialization with XML to HTML5. XML serialization is called XHTML 5. Unlike XHTML 2.0, XHTML 5 is compatible with XHTML 1.x.
+	</p>
+	</body>
+</html>
